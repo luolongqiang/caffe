@@ -87,7 +87,7 @@ docs/_site
 docs/_includes
 docs/gathered
 _site
-doxygen
+#doxygen
 docs/dev
 
 # LevelDB files
